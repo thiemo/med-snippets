@@ -1,0 +1,27 @@
+JL: 
+
+A:  ... intubiert, HWS ...
+
+B: bds. belüftet, SpO2 ...%
+
+C: BD ...mmHg, P ...bpm, Periphere Pulse... , Rekap...
+eFAST: ...
+
+D: Pupillen... , GCS... (A... , M... , V ...)
+
+E: T ...°C, BZ ...mmol/l
+
+Labor: 
+
+Secondary Survey: Thorax frei, kein Kompressionschmerz, Abdomen weich indolent, Becken stabil, Untere Extremitäten ..., Obere Extremitäten.... Wirbelsäule indolent ohne Klopfdolenz oder Stufen.
+
+CT Polytrauma: 
+Neuro:
+WS:
+Thorax:
+Abdomen: 
+Becken:
+
+Bildgebung:
+OE:
+UE:
